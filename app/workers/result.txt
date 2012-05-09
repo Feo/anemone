@@ -1,0 +1,277 @@
+http://shenzhen.lashou.com/cate/meishi/ Queue: 0
+http://shenzhen.lashou.com/deal/834410.html Queue: 53
+{:url=>"http://shenzhen.lashou.com/deal/834410.html", :intro=>"深圳今日团购:仅售15.9元！市场价最高36元的帕帕罗蒂（海岸城店）单人休闲套餐一份：饮品（4选1）+帕帕香咖包1份/帕帕巧克力包1份（2选1）。\r\n", :price=>"¥15.9", :image=>"http://d2.lashouimg.com/zt/201205/04/133612380242460000.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/834525.html Queue: 52
+{:url=>"http://shenzhen.lashou.com/deal/834525.html", :intro=>"深圳今日团购:仅售88元！市场价最高396元柏斯图西餐厅双人套餐一份：华都夫鸡肉沙律+碧绿海鲜汤+脆杏香三文鱼拼法式烟鸭胸+纽西兰羊仔柳拼美国牛肋扒+草莓慕斯+芒果蔓越莓/丝滑拿铁咖啡/香滑港式奶茶（任选2份）！", :price=>"¥88", :image=>"http://d2.lashouimg.com/zt/201205/04/133612617585078700.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/834434.html Queue: 51
+{:url=>"http://shenzhen.lashou.com/deal/834434.html", :intro=>"深圳今日团购:仅售138元！市场价316元的顺风雅厨酒楼四人套餐一份：北京片皮鸭+卡夫九王火鸭丝卷+蒜茸粉丝蒸带子+冬菜蒸有机黑鲩+上汤时蔬+川北凉粉+泰国丝苗米饭+茗茶+服务费！", :price=>"¥138", :image=>"http://d2.lashouimg.com/zt/201205/04/133612395407156800.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/834260.html Queue: 50
+{:url=>"http://shenzhen.lashou.com/deal/834260.html", :intro=>"深圳今日团购:仅售98元！市场价最高500元的爱之酒红酒音乐西餐厅精致浪漫双人套餐一份：黑椒熏牛肉配水橄榄+时令水果沙拉+田园农夫沙拉+牛尾浓汤+蘑菇汤+主食（任选2份）+鲜果果冻+酥炸雪糕，另赠送面包1份！拉手券使用时间：17：00-凌晨00：00！", :price=>"¥98", :image=>"http://d2.lashouimg.com/zt/201205/04/133612050233438800.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/834824.html Queue: 49
+{:url=>"http://shenzhen.lashou.com/deal/834824.html", :intro=>"深圳今日团购:仅售48元！市场价108元的牛河草景田北牛肉店任点任食自助火锅1人次：锅底（5选1，每个锅底至少需要2张拉手券方可使用，一人一券）+丸类+全牛精选+时蔬、菇类+主食类任点任食！每张拉手劵用餐时间最长2小时内任吃！", :price=>"¥48", :image=>"http://d2.lashouimg.com/zt/201205/04/133613144537509300.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/834439.html Queue: 48
+{:url=>"http://shenzhen.lashou.com/deal/834439.html", :intro=>"深圳今日团购:仅售126元！市场价294元的苏格台湾料理3人套餐一份：XO酱爆花枝+冰镇芥兰+深山黑木耳+豆豉鲜蚵+三杯鸡+米饭3份+茶位3位！", :price=>"¥126", :image=>"http://d2.lashouimg.com/zt/201205/04/133612413909412800.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/834398.html Queue: 47
+{:url=>"http://shenzhen.lashou.com/deal/834398.html", :intro=>"深圳今日团购:仅售79元！市场价167元的功夫驴（龙华店）4人套餐一份：驴肉+驴肚+驴筋+驴肉丸+白豆腐+白萝卜+黄豆芽+生菜+豆腐皮+金针菇+米饭+餐具，另赠送高汤锅底1份。2012年6月22日-24日不能使用拉手券消费。", :price=>"¥79", :image=>"http://d2.lashouimg.com/zt/201205/04/133612361926801900.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/834495.html Queue: 46
+{:url=>"http://shenzhen.lashou.com/deal/834495.html", :intro=>"深圳今日团购:仅售99元！市场价211元的毛家饭店（2店通用）4人套餐一份：鸳鸯鱼头+大汉金沙鸡+卜豆角炒肉+白灼菜心+莲藕排骨汤+小食2碟+米饭1锅+茶位4位+餐具4位+干纸巾1包+湿纸巾4包！茵悦之生店限周一至周五使用！", :price=>"¥99", :image=>"http://d2.lashouimg.com/zt/201205/04/133612567033756600.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/834505.html Queue: 45
+{:url=>"http://shenzhen.lashou.com/deal/834505.html", :intro=>"深圳今日团购:仅售99元！市场价214元的忆江南3-4人套餐一份：南京盐水鸭1份+百叶结烧肉1份+糟溜鱼滑1份+蚌肉鸭血烩豆腐1份+雪菜豆板炒肉丝1份+清炒杭白菜1份+米饭4碗+茶位4位。\r\n", :price=>"¥99", :image=>"http://d2.lashouimg.com/zt/201205/04/133612580430266900.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/833290.html Queue: 44
+{:url=>"http://shenzhen.lashou.com/deal/833290.html", :intro=>"深圳今日团购:仅售99元！市场价212元的茗香苑3-4人套餐一份：清蒸鲩鱼+木盆花甲+农家小炒肉+肉皮白菜煲+上汤时蔬+茶位+泰国香米饭+纸巾！另赠送水果拼盘！", :price=>"¥99", :image=>"http://d2.lashouimg.com/zt/201205/08/133646414494995800.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/834634.html Queue: 43
+{:url=>"http://shenzhen.lashou.com/deal/834634.html", :intro=>"深圳今日团购:仅售88元！市场价119元的龙泉酒店单人海鲜自助晚餐一人次：生蚝、刺身、虾、蟹、牛扒、老火炖汤、中式点心、热菜、甜品、水果、饮料、雪糕、沙拉等近200种菜品佳肴任你尝！", :price=>"¥88", :image=>"http://d2.lashouimg.com/zt/201205/04/133612949615434300.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/834511.html Queue: 42
+{:url=>"http://shenzhen.lashou.com/deal/834511.html", :intro=>"深圳今日团购:仅售128元！市场价226元的湛江渔港(八卦三路店)精选4人套餐一份：白灼基围虾1份+清蒸鲈鱼1条+蒜茸粉丝蒸扇贝1份+白切鸡1份+秘制渔港豆腐1例+蒜茸时蔬1例+豉汁炒圣子1份+鲜螺汤1例+白饭4碗+餐具4位。", :price=>"¥128", :image=>"http://d2.lashouimg.com/zt/201205/04/133612595760315900.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/834341.html Queue: 41
+{:url=>"http://shenzhen.lashou.com/deal/834341.html", :intro=>"深圳今日团购:欧陆盛宴，味蕾体验！仅售109元！市场价184元的绿景锦江酒店西餐厅欧陆式美食自助晚餐一人次（18：30-21：30）：海鲜吧、日式刺身、法式洋葱汤、匈牙利牛肉汤、挪威烟三文鱼、意式什锦拼盘、法国烟火腿、德国咸猪手、西式沙律、中式炖汤、煲仔类、韩式烤肉、软饮免费畅饮！各种水果、缤纷餐点无限量品尝！更有现场美食制作观赏品尝！", :price=>"¥109", :image=>"http://d2.lashouimg.com/zt/201205/04/133612211030362900.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/829663.html Queue: 40
+{:url=>"http://shenzhen.lashou.com/deal/829663.html", :intro=>"深圳今日团购:仅售138元！市场价334元的御福轩4人套餐一份：特色炖汤+盐水蒸海皖+伯娘肥叉+笋干焖五花肉+招牌黄鳝饭+茄子豆角+蒜蓉炒时蔬！", :price=>"¥138", :image=>"http://d2.lashouimg.com/zt/201204/27/133552412968252200.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/826404.html Queue: 39
+{:url=>"http://shenzhen.lashou.com/deal/826404.html", :intro=>"深圳今日团购:仅售129元！市场价最高396元的雨花西餐厅（报社店）新品双人套餐一份：法式野生杂菌汤（配法式烤面包片）+意式蟹肉玉米汤（配法式烤面包片）+意式凯撒沙拉配培根+主菜（4选2，不可重复）+饮品（5款，任选2杯）+甜品（4款，任选2份）！", :price=>"¥129", :image=>"http://d2.lashouimg.com/zt/201204/25/133534763111788200.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/833557.html Queue: 38
+{:url=>"http://shenzhen.lashou.com/deal/833557.html", :intro=>"深圳今日团购:仅售118元！市场价163元的华强广场酒店椰香餐厅自助晚餐一人次：头盘+沙律+凉菜+各种刺身+生猛海鲜+现场铁板烧+热菜+甜品+饮品！拉手券使用时间：18：00-21：00！", :price=>"¥118", :image=>"http://d2.lashouimg.com/zt/201205/03/133604125992395700.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/830774.html Queue: 37
+{:url=>"http://shenzhen.lashou.com/deal/830774.html", :intro=>"深圳今日团购:仅售99元！市场价231元的李连贵熏肉大饼店4人套餐一份：爆炒鸭肠+东坡肉+醋溜土豆丝+水晶粉+牛肉炖萝卜+熏肉大饼+花茶！2012年6月23日-6月24日不可使用拉手券消费。", :price=>"¥99", :image=>"http://d2.lashouimg.com/zt/201204/28/133560687877940300.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/788651.html Queue: 36
+{:url=>"http://shenzhen.lashou.com/deal/788651.html", :intro=>"深圳今日团购:仅售108元！市场价158.7元的新都酒店绿茵阁自助餐晚餐一人次：冷盘有冻蟹、冻虾、海螺、生蚝、元贝、青口；刺身有三文鱼、吞拿鱼、西麟鱼等等，自助餐还有丰盛的各式铁板烧、汤类、甜品、配有冬季迷你火锅任您选择！拉手券使用时间：17:30-21:30！", :price=>"¥108", :image=>"http://d2.lashouimg.com/zt/201203/20/133223826946319000.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/830610.html Queue: 35
+{:url=>"http://shenzhen.lashou.com/deal/830610.html", :intro=>"深圳今日团购:仅售68元！市场价138元的蓬客精品酒店（海岸城店）青蓬西餐厅自助晚餐一人次：超白金四星级酒店，名厨掌勺，现场烹饪，啖尽刺身海鲜、现烤生蚝、煎烤肉扒和鱼扒、热菜冷盘、沙律水果等近百道佳肴。菜品全新升级，生日当天更有蛋糕赠送！拉手券使用时间：18：00-21：00！\r\n", :price=>"¥68", :image=>"http://d2.lashouimg.com/zt/201204/28/133560239383523300.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/830773.html Queue: 34
+{:url=>"http://shenzhen.lashou.com/deal/830773.html", :intro=>"深圳今日团购:仅售159元！市场价319元的李连贵熏肉大饼店6人套餐一份：手把羊肉/西域羊排（2选1）+萝卜干炒腊肉+清炒木耳+白灼生菜+攸县香干+新京酱肉丝+熏肉大饼+花茶！2012年6月23日-6月24日不可使用拉手券消费。", :price=>"¥159", :image=>"http://d2.lashouimg.com/zt/201204/28/133560666616233900.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/833857.html Queue: 33
+{:url=>"http://shenzhen.lashou.com/deal/833857.html", :intro=>"深圳今日团购:仅售75元！市场价97元的华强广场酒店椰香餐厅自助午餐一人次：头盘+沙律+凉菜+各种刺身+生猛海鲜+现场铁板烧+热菜+甜品+饮品！拉手券使用时间：12：00-14：00！", :price=>"¥75", :image=>"http://d2.lashouimg.com/zt/201205/03/133604768709196100.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/830757.html Queue: 32
+{:url=>"http://shenzhen.lashou.com/deal/830757.html", :intro=>"深圳今日团购:仅售98元！市场价212元的台中牛排馆双人套餐一份：安格斯极佳牛排（8安士）/安格斯西冷牛排(8安士）【2选1】+香煎脆皮鸡排（8安士）/香煎深海鲷鱼排（8安士）【2选1】+意式番茄牛肉汤2份+免费自助沙拉2位。\r\n", :price=>"¥98", :image=>"http://d2.lashouimg.com/zt/201204/28/133560631399289400.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/833847.html Queue: 31
+{:url=>"http://shenzhen.lashou.com/deal/833847.html", :intro=>"深圳今日团购:仅售60元！市场价120元的黄记煌（万象城旗舰店）现金抵用一次！所有菜品及锅底通用（酒水、特价菜品除外），拉手券限周一至周五全天（10：00-凌晨02：30）使用！爱她就给她安全放心的鱼,黄记煌万象旗舰店独有三峡有机清江生态鱼、绿色无公害认证！ ", :price=>"¥60", :image=>"http://d2.lashouimg.com/zt/201205/03/133604713039370000.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/827698.html Queue: 30
+{:url=>"http://shenzhen.lashou.com/deal/827698.html", :intro=>"深圳今日团购:仅售149元！市场价最高465元的椰乡人家酒楼4人套餐一份（A/B套餐，2选1）！5月13日不能使用拉手劵！", :price=>"¥149", :image=>"http://d2.lashouimg.com/zt/201204/26/133543173092006100.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/832300.html Queue: 29
+{:url=>"http://shenzhen.lashou.com/deal/832300.html", :intro=>"深圳今日团购:仅售138元！市场价690元的京基晶都酒店西餐厅双人套餐一份（A/B套餐，任选2份）。", :price=>"¥138", :image=>"http://d2.lashouimg.com/zt/201205/03/133604862645418100.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/833133.html Queue: 28
+{:url=>"http://shenzhen.lashou.com/deal/833133.html", :intro=>"深圳今日团购:仅售99元！市场价232元的庆园丰收鱼庄餐厅（布吉信义店）4人套餐一份：鲶鱼锅（中）1份+大骨锅底1份+肥牛1份/肥羊1份（2选1）+白萝卜1份+西洋菜1份/高山娃娃菜1份（2选1）+水豆腐1份+凉拌海带丝1份/椒盐花生1份（2选1）+茶位4位+米饭4碗+餐具4位+酸梅汁1扎。\r\n", :price=>"¥99", :image=>"http://d2.lashouimg.com/zt/201205/03/133603593898847700.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/828119.html Queue: 27
+{:url=>"http://shenzhen.lashou.com/deal/828119.html", :intro=>"深圳今日团购:仅售48.8元！市场价93元的千品涮涮锅双人套餐一份：锅底（8选1）1个+羊羔肉1份/优质肥牛1份（2选1）+凤爪1份+龙虾丸1份+淡鱼片1份+猪血1份+西红柿1份+时蔬1份+金针菇1份+土豆1份+果汁2杯+自助酱料2位+自助凉菜2位。", :price=>"¥48.8", :image=>"http://d2.lashouimg.com/zt/201204/26/133543765365681300.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/823030.html Queue: 26
+{:url=>"http://shenzhen.lashou.com/deal/823030.html", :intro=>"深圳今日团购:仅售98元！市场价208元的重庆孔亮山珍鸳鸯火锅四人套餐一份：孔亮山珍鸳鸯锅底+极品肥牛+午餐肉+水晶包+牛百叶+墨鱼丸+美味豆腐+金银馒头+豆芽+冬瓜+生菜+泡菜+糖水+油碟4位+茶位4位！拉手券于4月29日-5月1日不能使用！", :price=>"¥98", :image=>"http://d2.lashouimg.com/zt/201204/24/133525754150795400.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/828018.html Queue: 25
+{:url=>"http://shenzhen.lashou.com/deal/828018.html", :intro=>"深圳今日团购:仅售89元！市场价最高359元的老树咖啡（龙岗天安店）双人套餐一份：T骨牛扒1份+香煎鸡扒1份+白饭/意粉（任选2份）+田园沙律1份+中式例汤1份+粟米汤1份+饮料（任选2杯）。", :price=>"¥89", :image=>"http://d2.lashouimg.com/zt/201204/26/133543566149615500.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/826471.html Queue: 24
+{:url=>"http://shenzhen.lashou.com/deal/826471.html", :intro=>"深圳今日团购:仅售139元！市场价205元的木屋烧烤（龙岗店）精品四人套餐一份：爽口鱼+湛江烤生蚝+烤鸡腿+澳州肥牛+羊肉串+烤茄子+烤韭菜+豆皮+凉拌娃娃菜+家常炒饭+馒头+盐水花生+茶位+纸巾！", :price=>"¥139", :image=>"http://d2.lashouimg.com/zt/201204/25/133534959796411800.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/828023.html Queue: 23
+{:url=>"http://shenzhen.lashou.com/deal/828023.html", :intro=>"深圳今日团购:仅售29元！市场价最高68元的老树咖啡（龙岗天安店）单人商务套餐一份：石锅饭（8选1，另配送例汤1碗、青菜1碟）+原味奶茶/七喜（2选1）。", :price=>"¥29", :image=>"http://d2.lashouimg.com/zt/201204/26/133543580087641000.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/827989.html Queue: 22
+{:url=>"http://shenzhen.lashou.com/deal/827989.html", :intro=>"深圳今日团购:仅售76元！市场价108元的中南海滨大酒店地中海美食自助晚餐一人次（已含服务费）：三文鱼+汤+刺身档+头盘+沙律+热菜+明档及现场煎扒+甜品+雪糕+鲜果吧+酒水等多种美味食品任吃！拉手券使用时间：周五、周六、周日18：00-21：00！", :price=>"¥76", :image=>"http://d2.lashouimg.com/zt/201204/26/133543523607723300.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/827860.html Queue: 21
+{:url=>"http://shenzhen.lashou.com/deal/827860.html", :intro=>"深圳今日团购:仅售139元！市场价856元的萬膳日本料理精选双人套餐一份：蟹籽沙律2份+刺身拼盘1份+寿司拼盘1份+铁板香煎银鳕鱼2块+铁板金菇牛肉薄烧4块+铁板法式羊扒2件/法国鹅肝2件(2选1)+什锦天妇罗1份+三文鱼头汤2碗/蟹肉翅2碗(2选1)+炒什菜1份+海鲜炒饭2碗+日本清酒1壶/梅酒2杯/果汁2杯（3选1)+草莓雪糕1份/芝麻雪糕1份（2选1）！", :price=>"¥139", :image=>"http://d2.lashouimg.com/zt/201204/26/133543245481399800.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/832055.html Queue: 20
+{:url=>"http://shenzhen.lashou.com/deal/832055.html", :intro=>"深圳今日团购:仅售268元！市场价584元的客品客家菜8人套餐一份：麦冬青榄炖水鸭1鼎+客家蒸石蛙1例+客家什锦盆菜1例+上汤时蔬1例+秘制豆酱蒸土鲶鱼1份+火炬海带煮花甲1例+香椿苗炒土鸡蛋1例+金牌盐焗鸭半只+煎酿豆腐1例+老家馒头8个+时令水果1份+茶位8位，午市时段（11:30-14:00）到店消费另可赠送现金劵2张! \r\n", :price=>"¥268", :image=>"http://d2.lashouimg.com/zt/201205/02/133595618366616400.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/833559.html Queue: 19
+{:url=>"http://shenzhen.lashou.com/deal/833559.html", :intro=>"深圳今日团购:仅售118元！市场价436元的拉姆齐双人套餐一份：安格斯原味牛小扒皇（8安士）/吐鲁番香辣扒鸡（8安士）/猪宝宝超爽扒（8安士）（任选2份）+法式蘑菇粟米浓汤1份+金必多鱼翅南瓜汤1份+椰香芒果汁、金橘柚子蜜（各1杯）+免费任吃自助沙律吧！拉手券使用时间：周一至周五：13：00-23：00，周六、周日：12：00-23：00！\r\n", :price=>"¥118", :image=>"http://d2.lashouimg.com/zt/201205/03/133604552307360700.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/829266.html Queue: 18
+{:url=>"http://shenzhen.lashou.com/deal/829266.html", :intro=>"深圳今日团购:仅售118元！市场价253元的全来顺老北京涮羊肉4人套餐一份：羊蝎子+豆制品（任选1份）+青菜（任选2份）+水饺/手工面（2选1）+烧饼/馅饼（任选1份）+茶位4位+餐具4位+纸巾1包。\r\n\r\n", :price=>"¥118", :image=>"http://d2.lashouimg.com/zt/201204/27/133551902873624000.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/830982.html Queue: 17
+{:url=>"http://shenzhen.lashou.com/deal/830982.html", :intro=>"深圳今日团购:仅售198元！市场价740元的粤季轩4人套餐一份：姜酒松花蛋1份+石斛海参炖螺头4位+炭烧脆骨鸭1份+古法笋干扣猪手1份+XO酱香炒莲藕松1份+上汤时蔬1份+刀拍黄瓜1份+健康五豆糕1份+白饭4份+果盘1份+茶位4位。\r\n", :price=>"¥198", :image=>"http://d2.lashouimg.com/zt/201204/28/133560835652978100.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/827798.html Queue: 16
+{:url=>"http://shenzhen.lashou.com/deal/827798.html", :intro=>"深圳今日团购:仅售98元！市场价676元的和田日本料理店精选双人套餐一份：中华沙律2份+三文鱼刺身10片+寿司拼盘1份+法国鹅肝1份+金菇牛肉卷1份+什锦天妇罗1份+盐烧秋刀鱼1条+三文鱼头汤2碗+海胆炒饭2碗。\r\n", :price=>"¥98", :image=>"http://d2.lashouimg.com/zt/201205/02/133593691760425400.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/833543.html Queue: 15
+{:url=>"http://shenzhen.lashou.com/deal/833543.html", :intro=>"深圳今日团购:仅售69元！市场价183元的吉鑫记猪肚鸡3人套餐一份：胡椒猪肚鸡+白仙菇+美国肥牛+生鸭血+土鸡杂+生菜+米饭+餐具！", :price=>"¥69", :image=>"http://d2.lashouimg.com/zt/201205/03/133604113384994300.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/829268.html Queue: 14
+{:url=>"http://shenzhen.lashou.com/deal/829268.html", :intro=>"深圳今日团购:仅售58元！市场价114元的黄记煌三汁焖锅（沙井店）鲶鱼双人套餐一份：鲶鱼锅1锅（鲶鱼约600g，含锅底及酱料）+餐具2份。拉手券限周一至周五午市11：00-14：00时段使用。", :price=>"¥58", :image=>"http://d2.lashouimg.com/zt/201204/27/133551926828637400.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/826473.html Queue: 13
+{:url=>"http://shenzhen.lashou.com/deal/826473.html", :intro=>"深圳今日团购:仅售118元！市场价228元的中航城格兰云天大酒店天星西餐厅周末滋补自助式单人晚餐一人次：冷盘、热菜、三文鱼刺身、中西式汤、沙律、甜品、各式雪糕、水果、点心、面包、冰淇淋、啤酒、咖啡、茶、果汁、养生果等任饮任食！拉手券使用时间：每周五、周六（2012年5月4日、5月5日、5月11日、5月12日、5月13日、5月18日、5月19日、5月25日、5月26日）17：30-21：30使用！", :price=>"¥118", :image=>"http://d2.lashouimg.com/zt/201204/25/133534989194177100.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/826304.html Queue: 11
+{:url=>"http://shenzhen.lashou.com/deal/826304.html", :intro=>"深圳今日团购:仅售398元！市场价1469.6元的潮泰轩（新世界中心店）龙虾鲍鱼双人套餐一份：石斛松茸汤2位+鲍鱼扣鹅掌2位+金银蒜蒸龙虾仔2位+石窝豉油鸡1份+灼青菜一碟2位+时令甜品2位+精美点心1份+茶位2位+10%服务费，另赠送鲜果拼盘1份。\r\n", :price=>"¥398", :image=>"http://d2.lashouimg.com/zt/201204/25/133534665054142400.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/830742.html Queue: 11
+{:url=>"http://shenzhen.lashou.com/deal/830742.html", :intro=>"深圳今日团购:仅售78元！市场价108元的花园巴西烤肉自助晚餐一人次！蛇口店、购物公园店2店通用！拉手券使用时间：17：30-22：00！", :price=>"¥78", :image=>"http://d2.lashouimg.com/zt/201204/28/133560618118363500.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/830736.html Queue: 10
+{:url=>"http://shenzhen.lashou.com/deal/830736.html", :intro=>"深圳今日团购:仅售99元！市场价458元的元宗日本料理双人套餐一份：三文鱼刺身8片+北极贝刺身5片+希鲮鱼5片+三文鱼花之恋2个+土豆沙律寿司2个+玉子寿司2个+螺肉寿司2个+蟹子寿司2个+三文鱼骨1份+中华海草1份+奇脆山药卷1份+鳗汁鱼皮手卷2份+奶油忌廉汤2份+枝豆1份+日式泡菜1份+水果沙律1份。", :price=>"¥99", :image=>"http://d2.lashouimg.com/zt/201204/28/133560594789824500.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/826158.html Queue: 9
+{:url=>"http://shenzhen.lashou.com/deal/826158.html", :intro=>"深圳今日团购:仅售75元！市场价152元的齐涮涮时尚小火锅精致双人套餐一份：高汤锅底（任选2）+优质肥牛1份/羔羊肉1份（2选1）+黑牛柏叶1份/鱼皮饺1份（2选1）+丸子拼盘1份+百搭菜盘1份+腐竹1份+土豆1份+莲藕片1份+冬面1份/冬粉1份/白米饭1份（任选2份）+调料2份+餐具2份！", :price=>"¥75", :image=>"http://d2.lashouimg.com/zt/201204/25/133534187690908300.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/810020.html Queue: 8
+{:url=>"http://shenzhen.lashou.com/deal/810020.html", :intro=>"深圳今日团购:仅售299元！市场价最高2261.6元的潮泰轩四人套餐一份（A/B套餐，2选1）：A套餐：蟹子鲜果沙律1份+川味口水鸡1份+石斛炖大连鲍4位+什粮扣辽参4位+农家小炒肉1例+豉汁果皮蒸鲳鱼1份+金银蛋苋菜1份+芒果布丁4份+茶位4位+服务费10%，另赠送鲜果拼盘1份；B套餐：尖椒凉拌皮蛋1份+凉拌土豆丝1份+木瓜翅4位+鲍汁大连鲍扣花菇4位+明炉乌鱼1份+蒜茸蒸基围虾1份+农家菜心炒鸡杂1份+蜜瓜西米露4份+茶位4位+服务费10%，另赠送鲜果拼盘1份。\r\n", :price=>"¥299", :image=>"http://d2.lashouimg.com/zt/201204/11/133414423711826900.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/814958.html Queue: 7
+{:url=>"http://shenzhen.lashou.com/deal/814958.html", :intro=>"深圳今日团购:仅售99元！市场价536元的菊樱回转寿司（南油店）双人套餐一份：刺身拼盘（三文鱼腩、希灵鱼、北极贝，各2片）+寿司拼盘+西京烧银鳕鱼+吉列炸多春鱼+五彩拼盘+和风沙律+日式煎饺+泡菜炒饭+清酒+饮料任饮（以当天供应为准）！另免费提供茶位2位！", :price=>"¥99", :image=>"http://d2.lashouimg.com/zt/201204/16/133456780847293300.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/821464.html Queue: 6
+{:url=>"http://shenzhen.lashou.com/deal/821464.html", :intro=>"深圳今日团购:仅售48元！市场价100元的顺风肥牛甘棠坊现金抵用一次！所有菜品及锅底通用（酒水、特价菜品除外），拉手券可全天（10：30-22：00）使用！ 每桌4人以及4人以下限使用1张拉手劵，每桌5人以上最多可使用2张拉手劵！\r\n", :price=>"¥48", :image=>"http://d2.lashouimg.com/zt/201204/20/133491627463504200.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/797494.html Queue: 5
+{:url=>"http://shenzhen.lashou.com/deal/797494.html", :intro=>"深圳今日团购:仅售299元！市场价2680元的六星餐饮四人套餐一份（A/B/C套餐，3选1）：A套餐：原盅鸡炖翅汤+五谷什粮扣海参+鲜椒脆黄喉+豉汁煎金仓鱼+酸菜凉瓜皮水晶鸡+清炒时蔬+生煎菜肉包+马蹄绿豆汤圆，另免费赠送精美水果1份；B套餐：原盅鸡炖翅汤+五谷什粮扣海参+椒香黑毛肚+豆酱姜丝蒸立鱼+四川回锅肉+蒜茸炒时蔬+香煎韭菜饺+马蹄绿豆汤圆，另免费赠送精美水果1份；C套餐：原盅鸡炖翅汤+五谷什粮扣海参+凉拌青瓜+红焖老鹅+剁椒蒸鱼头+上汤时蔬+香煎南瓜饼+马蹄绿豆汤圆，另免费赠送精美水果1份。", :price=>"¥299", :image=>"http://d2.lashouimg.com/zt/201203/28/133292719844680400.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/807178.html Queue: 4
+{:url=>"http://shenzhen.lashou.com/deal/807178.html", :intro=>"深圳今日团购:仅售128元！市场价456元的迎好运海鲜酒楼4-5人套餐一份：石参根炖土鸡1份/五叶神炖土鸡1份/细叶白花地胆头炖土鸡1份/艾根炖土鸡1份（4选1，鸡约1.8斤）+客家让豆腐1份+皇牌烧鹅1例+剁椒蒸海斑鱼1份（约500g）+豉汁炒海丁螺1份（约600g）+蒜茸炒青菜1份+蒜茸粉丝蒸扇贝1份（12只）+茶香虾1份（约500g）+米饭5碗+餐具5位。", :price=>"¥128", :image=>"http://d2.lashouimg.com/zt/201204/09/133396335737157500.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/826303.html Queue: 3
+{:url=>"http://shenzhen.lashou.com/deal/826303.html", :intro=>"深圳今日团购:仅售298元！市场价1405.8元的潮泰轩（新世界中心店）四人套餐一份：青榄炖鲍鱼靓汤4位+上汤焗大虾1份+堂煎牛仔骨4位+水晶鸡1份+鱼汤菜蓝1份+时令甜品4位+精美点心1份+茶位4位+10%服务费，另赠送鲜果拼盘1份。\r\n", :price=>"¥298", :image=>"http://d2.lashouimg.com/zt/201204/25/133534650933514400.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/797684.html Queue: 2
+{:url=>"http://shenzhen.lashou.com/deal/797684.html", :intro=>"深圳今日团购:仅售168元！市场价371元的联城振兴酒楼VS联城酒家5人晚餐一份：联城葱油鸡+剁椒蒸水库大鱼头+潮式炸双拼+客家煎酿豆腐+野生黑木耳炒黄牛仔肉+上汤时蔬+潮州椰菜焗饭+水果+茶位费5位+纸巾1包+服务费！联城振兴酒楼、联城酒家，2店通用！拉手券使用时间：16：30-21：30！", :price=>"¥168", :image=>"http://d2.lashouimg.com/zt/201203/28/133293058478952000.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/797685.html Queue: 1
+{:url=>"http://shenzhen.lashou.com/deal/797685.html", :intro=>"深圳今日团购:仅售298元！市场价635元的联城振兴酒楼VS联城酒家8人晚餐一份：生熟地煲龙骨+好味猪手+潮式明炉乌鱼+北京片皮鸭+炒鸭丝+潮州菜干腩肉煲+客家煎酿豆腐+上汤时蔬+鱼香茄子煲+扬州炒饭+果盘+茶位费8位+纸巾2包+服务费！联城振兴酒楼、联城酒家，2店通用！拉手券使用时间：16：30-21：30！", :price=>"¥298", :image=>"http://d2.lashouimg.com/zt/201203/28/133293069170450500.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/821582.html Queue: 0
+{:url=>"http://shenzhen.lashou.com/deal/821582.html", :intro=>"深圳今日团购:仅售88元！市场价232元的康妈妈钙骨馆（万科红店）4人套餐一份：大骨锅底1份+牛羊拼盘1份+白牛百叶1份+丸类拼盘1份+黄金腐竹1份+菇类三拼1份+冬瓜片1份+水豆腐1份+时蔬1份+凉拌海带丝1份+酱料4份+餐具4位+米饭4碗+茶1壶+纸巾1包，2012年5月1日不能使用拉手劵！", :price=>"¥88", :image=>"http://d2.lashouimg.com/zt/201204/20/133491893717499700.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/827696.html Queue: 0
+{:url=>"http://shenzhen.lashou.com/deal/827696.html", :intro=>"深圳今日团购:仅售168元！市场价288元的大梅沙京基海湾大酒店缤纷年代西餐厅海鲜美食自助晚餐一人次：冻蟹、法国鲜蚝、翡翠螺、刺身、避风塘富贵虾、松露菌意粉、风味果木熏肉、炭烧生蚝、美国牛肉、原条虹鳟鱼、新西兰羊扒、燕窝焦糖蛋塔、朱古力慕斯杯、提拉米苏等各式美食任吃，软饮、啤酒不限量任饮，每张拉手券可免费赠送法式煎鹅肝一例。自助餐供应时间：每周五、周六晚18：00-22:00，若2012年4月29日-5月1日使用拉手券消费，每张券需加收40元（店内另付）！", :price=>"¥168", :image=>"http://d2.lashouimg.com/zt/201204/26/133543007463578700.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/816517.html Queue: 0
+{:url=>"http://shenzhen.lashou.com/deal/816517.html", :intro=>"深圳今日团购:仅售99元！市场价244元的毛家饭店（喜荟城店）4人套餐一份：口味家乡花菜1份+瑶家一碗香1份+农家鸡汤煨杂菌1份+清蒸鲈鱼1份+干锅手撕包菜1份+纸巾1盒+米饭4碗+茶位4位，2012年4月29日-5月1日不能使用拉手劵！\r\n", :price=>"¥99", :image=>"http://d2.lashouimg.com/zt/201204/17/133465398364511500.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/821487.html Queue: 0
+{:url=>"http://shenzhen.lashou.com/deal/821487.html", :intro=>"深圳今日团购:仅售98元！市场价188元的老乡村鱼舫4人套餐一份：平锅瓦子鱼1份+干锅田鸡1份+铁板土猪肉杏鲍菇1份+大盆花菜1份+酸菜酱油炒饭1份+小食2碟+餐具4位+茶位4位+米酒1壶。", :price=>"¥98", :image=>"http://d2.lashouimg.com/zt/201204/20/133491667850601300.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/821585.html Queue: 0
+{:url=>"http://shenzhen.lashou.com/deal/821585.html", :intro=>"深圳今日团购:仅售118元！市场价326元的东来顺4-5人椰子鸡套餐一份：海南椰子鸡+极品杜柏羊+极品肥牛+金针菇+鲜玉米+虾丸+冻豆腐+油麦菜/大白菜（2选1）+羊肉松炒饭+调料5位+餐具5位，新洲分店、红岭分店2店通用！", :price=>"¥118", :image=>"http://d2.lashouimg.com/zt/201204/20/133491935787652800.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/815118.html Queue: 0
+{:url=>"http://shenzhen.lashou.com/deal/815118.html", :intro=>"深圳今日团购:仅售118元！市场价293元的韩林炭烧3-4人套餐一份：精品肥牛+烤鸡肉+烤培根+烤什锦拼盘+韩式炒年糕+石锅拌饭+鳕鱼汤+拌油椒木耳+黄瓜寿司卷+蔬菜色拉+木炭+湿调料+干调料+生菜，另赠送韩式小菜4道+韩式麦茶4位任饮+口香糖每人1个+抵用劵1张（限下次使用）；2012年4月29日-5月1日（五一劳动节）不能使用拉手劵！东门太阳百货店、华强北茂业百货店2店通用！\r\n", :price=>"¥118", :image=>"http://d2.lashouimg.com/zt/201204/16/133457017655236700.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/cate/meishi/page3 Queue: 0
+http://shenzhen.lashou.com/deal/821494.html Queue: 9
+{:url=>"http://shenzhen.lashou.com/deal/821494.html", :intro=>"深圳今日团购:仅售368元！市场价1412元的粤季轩精品4人套餐一份：香脆萝卜1份+麻香河鱼干1份+浓汤鸡丝翅4份+日式什锦拼盘1份+紫苏茄子爆牛仔骨粒1份+胜瓜云耳煮蟹籽球1份+金蒜蒸菜胆1份+清爽绿豆糕半打+白饭4份+果盘1份+茶位4位。2012年4月29号至5月1号不接受预约及消费。", :price=>"¥368", :image=>"http://d2.lashouimg.com/zt/201204/20/133491827773576700.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/cate/meishi/page2 Queue: 9
+http://shenzhen.lashou.com/deal/829891.html Queue: 68
+{:url=>"http://shenzhen.lashou.com/deal/829891.html", :intro=>"深圳今日团购:仅售258元！市场价582元的宁波酒家8人套餐一份：干捞粉丝蟹煲+瑶柱烩豆皮+糟溜鲈鱼+铁板格格肉+百叶结土鸡蛋烧肉+小炒河虾+豉汁蒸带子+清炒鸡毛菜+宁波生煎包+酒酿园子+脆酱萝卜+茶位+米饭+纸巾！", :price=>"¥258", :image=>"http://d2.lashouimg.com/zt/201204/28/133558707029273100.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/829385.html Queue: 67
+{:url=>"http://shenzhen.lashou.com/deal/829385.html", :intro=>"深圳今日团购:仅售58元！市场价134元的六千馆（华南城店）双人套餐一份：甜玉米煲+蟹黄豆腐+野山椒凤爪+手打拼丸+生菜+雪菜炒饭+酸梅汁+调料+湿巾！", :price=>"¥58", :image=>"http://d2.lashouimg.com/zt/201204/27/133552059987646500.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/830343.html Queue: 66
+{:url=>"http://shenzhen.lashou.com/deal/830343.html", :intro=>"深圳今日团购:仅售128元！市场价256元的大观潇湘馆4-6人套餐一份：私房活跳鱼+沙姜鸡+石锅牛蛙+萝卜干炒腊肉+海带龙骨汤+时蔬+米饭+茶位+纸巾！", :price=>"¥128", :image=>"http://d2.lashouimg.com/zt/201204/28/133558641091245800.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/829093.html Queue: 65
+{:url=>"http://shenzhen.lashou.com/deal/829093.html", :intro=>"深圳今日团购:仅售13.8元！市场价32元的上岛咖啡（华南城店）下午茶咖啡一杯（4选1）！拉手券使用时间：14：00-18：00！", :price=>"¥13.8", :image=>"http://d2.lashouimg.com/zt/201204/27/133551526342465900.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/829332.html Queue: 64
+{:url=>"http://shenzhen.lashou.com/deal/829332.html", :intro=>"深圳今日团购:仅售28元！市场价85元的欧菲酒膳单人套餐一份：美式黑椒鸡扒+法式香煎鸭胸扒+饮品（4选1）+汁水/白饭/意粉（任选1份）！", :price=>"¥28", :image=>"http://d2.lashouimg.com/zt/201204/27/133551961515360900.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/829892.html Queue: 63
+{:url=>"http://shenzhen.lashou.com/deal/829892.html", :intro=>"深圳今日团购:仅售128元！市场价281元的宁波酒家4人套餐一份：瑶柱烩豆皮+糟溜鲈鱼+铁板格格肉+豉汁蒸带子+清炒鸡毛菜+宁波生煎包+酒酿园子+茶位+米饭+纸巾！", :price=>"¥128", :image=>"http://d2.lashouimg.com/zt/201204/28/133558711141224300.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/829333.html Queue: 62
+{:url=>"http://shenzhen.lashou.com/deal/829333.html", :intro=>"深圳今日团购:仅售88元！市场价232元的欧菲酒膳双人套餐一份：汤类（4选2，不可复选）+扒类（4选2，不可复选）+榴莲酥/香芋酥/杂粮糕（3选1）！", :price=>"¥88", :image=>"http://d2.lashouimg.com/zt/201204/27/133551990526189400.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/829254.html Queue: 61
+{:url=>"http://shenzhen.lashou.com/deal/829254.html", :intro=>"深圳今日团购:仅售68元！市场价113元的滋乐滋乐火锅2-3人套餐一份：特色火锅底（5选1）+羊羔肉+特级肥牛+鱼丸+纯牛肉丸+猪血+红薯粉+炸腐竹+香菇+黄豆芽+土豆片+时蔬+鸡中翼+饮料+味碟！", :price=>"¥68", :image=>"http://d2.lashouimg.com/zt/201204/27/133551984403755900.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/808085.html Queue: 60
+{:url=>"http://shenzhen.lashou.com/deal/808085.html", :intro=>"深圳团购:仅售99元！市场价138元的昌安国际酒店环球餐厅环球海鲜美食村自助晚餐一人次：自助晚餐营业时间段：17:30-22:00！不含酒类，节假日可用！\r\n", :price=>"¥99", :image=>"http://d2.lashouimg.com/zt/201203/30/133310589913484600.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/822507.html Queue: 59
+{:url=>"http://shenzhen.lashou.com/deal/822507.html", :intro=>"深圳今日团购:仅售98元！市场价147.2元的龙泉国际大酒店自助午餐1人次（已含服务费）！自助午餐用餐时间：12:00-14:30！", :price=>"¥98", :image=>"http://d2.lashouimg.com/zt/201204/20/133491488227013100.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/827305.html Queue: 58
+{:url=>"http://shenzhen.lashou.com/deal/827305.html", :intro=>"深圳今日团购:仅售38元！市场价48元的原乡素食会所素食自助晚餐一人次：全部素材含熟菜、点心、小吃、饮料等共数十种！拉手券于5月13日不能使用！", :price=>"¥38", :image=>"http://d2.lashouimg.com/zt/201204/24/133526937849780500.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/823613.html Queue: 57
+{:url=>"http://shenzhen.lashou.com/deal/823613.html", :intro=>"深圳今日团购:仅售238元！市场价440元的中山市东升镇焯明美食城鱼乐分享10人套餐一份：农家瓦煲合时靓汤（中）+时菜炒鱼片+豉汁蒸鱼腩+特色浸鱼片+麻辣水煮脆肉鲩鱼蛋+椒盐鱼骨+凉瓜焖头尾+酥炸鱼柳+田园时蔬+鱼肠菜心粒炒饭（中）+餐具+纸巾！", :price=>"¥238", :image=>"http://d2.lashouimg.com/zt/201204/19/133482339305065500.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/828674.html Queue: 56
+{:url=>"http://shenzhen.lashou.com/deal/828674.html", :intro=>"深圳今日团购:仅售198元！市场价285.2元的索菲特东莞御景湾五星级酒店莱奥咖啡马来西亚美食节自助晚餐1人次（含15%服务费）！不含酒类！自助晚餐时间：17:30-21:30！", :price=>"¥198", :image=>"http://d2.lashouimg.com/zt/201204/24/133525658355379100.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/823634.html Queue: 55
+{:url=>"http://shenzhen.lashou.com/deal/823634.html", :intro=>"深圳今日团购:仅售148元！市场价243元的中山市东升镇焯明美食城鱼乐无穷5人套餐一份：时蔬炒脆肉鲩+豉汁蒸鱼腩+凉瓜炆鱼头尾骨+酥炸鱼柳+田园时蔬+鱼肠炒饭+餐具+纸巾！", :price=>"¥148", :image=>"http://d2.lashouimg.com/zt/201204/19/133482321126293700.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/819264.html Queue: 54
+{:url=>"http://shenzhen.lashou.com/deal/819264.html", :intro=>"深圳今日团购:仅售98元！市场价168元的惠州市惠阳五星级家路国际大酒店自助晚餐1人次：海鲜、寿司、碳烤生蚝、香味烤肉、凉菜、汤类、精美甜品、水果饮料、现场制作片皮鸭卷、越南春卷、冰爽啤酒等，无限量畅吃畅喝。拉手券使用时间：18:00—21:30！节假日通用！", :price=>"¥98", :image=>"http://d2.lashouimg.com/zt/201204/18/133468283389536900.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/818586.html Queue: 53
+{:url=>"http://shenzhen.lashou.com/deal/818586.html", :intro=>"深圳今日团购:仅售42元！市场价最高68元的高勾丽韩式自助烤肉单人自助餐一人次：精品烤肉、一品料理、凉拌菜、石锅汤类、煎饼类、美味主食、汽水饮料等无限享用。韩式风味精品肉食现点现烤！本次团购用餐时长最长不超过2小时！", :price=>"¥42", :image=>"http://d2.lashouimg.com/zt/201204/18/133474575692841600.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/820263.html Queue: 52
+{:url=>"http://shenzhen.lashou.com/deal/820263.html", :intro=>"深圳今日团购:仅售128元！市场价181.7元的龙泉国际大酒店自助晚餐1人次（已含服务费）！自助晚餐用餐时间：18:00-21:30！", :price=>"¥128", :image=>"http://d2.lashouimg.com/zt/201204/19/133483014817107100.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/821449.html Queue: 51
+{:url=>"http://shenzhen.lashou.com/deal/821449.html", :intro=>"深圳今日团购:仅售199元！市场价457元的顺风肥牛甘棠坊4人套餐一份：锅底（任选4）+凉拌野木耳1份+酸辣蕨根粉1份+顶级上脑肥牛1份+相间肥牛1份+肥牛双绝1份+经典牛肉丸1份+金针菇1份+娃娃菜1份+冬瓜片1份+菠菜1份+冻豆腐1份+扯面1份+绵绵冰（任选4）+养生苦荞茶1壶+餐位费4位（含酱料4位+小吃1份），2012年4月29日-5月1日不能使用拉手劵！\r\n", :price=>"¥199", :image=>"http://d2.lashouimg.com/zt/201204/20/133491572969961800.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/820086.html Queue: 50
+{:url=>"http://shenzhen.lashou.com/deal/820086.html", :intro=>"深圳今日团购:仅售128元！市场价298元的华府农家粥城5-6人套餐一份：枸杞猪杂汤1例+葱油鸡半只+卤水拼盘1例+豉汁蒸鱼头1例+让豆腐1例+红炆猪肉1例+淮山炒木耳1例+上汤蔬菜1例+米饭6位（任食）+餐具6份+纸巾1包。", :price=>"¥128", :image=>"http://d2.lashouimg.com/zt/201204/19/133483344520940600.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/830986.html Queue: 49
+{:url=>"http://shenzhen.lashou.com/deal/830986.html", :intro=>"深圳今日团购:仅售168元！市场价285元的湛港城4人套餐一份：烧鹅+茶香虾+烤生蚝+客家酿豆腐+炒时蔬+风干秘制黄花鱼+老火靓汤+米饭+茶位4位+纸巾！", :price=>"¥168", :image=>"http://d2.lashouimg.com/zt/201204/28/133560850155513100.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/823205.html Queue: 48
+{:url=>"http://shenzhen.lashou.com/deal/823205.html", :intro=>"深圳今日团购:仅售86元！市场价210元的毛家饭店（向南海德店）4人套餐一份：剁椒鱼头1份+烟笋炒腊肉1份+爽口鸡蛋干1份+红煨湖藕1份+筒子骨炖萝卜汤1份+米饭4碗+小吃2份+茶位4位+纸巾1包，2012年4月28日-5月1日不能使用拉手劵！ \r\n", :price=>"¥86", :image=>"http://d2.lashouimg.com/zt/201204/24/133523956448334500.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/824510.html Queue: 47
+{:url=>"http://shenzhen.lashou.com/deal/824510.html", :intro=>"深圳今日团购:仅售98元！市场价最高432元的红桂大酒店爱琴岛双人套餐一份：意大利田园沙律配香草焗扇贝+南瓜鱼翅海鲜忌廉汤+意大利杂菜汤+主食（5选2）+绿茶芝士红豆蛋糕+朱古力慕斯蛋糕+饮品（任选2杯）。2012年5月13日不能使用拉手券。", :price=>"¥98", :image=>"http://d2.lashouimg.com/zt/201204/24/133525941003140900.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/cate/meishi/page1 Queue: 46
+http://shenzhen.lashou.com/deal/824580.html Queue: 45
+{:url=>"http://shenzhen.lashou.com/deal/824580.html", :intro=>"深圳今日团购:仅售139元！市场价516元的雨花西餐厅（海上世界店）浪漫双人套餐一份：主食（任选2份）+凯撒腌鸭胸沙律/吞拿鱼鲜蔬沙律（2选1）+咖喱炒什菜/香草薯茸焗扇贝（2选1）+甜品（任选2份）+金必多南瓜鱼翅海鲜汤/法式蘑菇浓汤（任选2份）+饮品（任选2杯），另赠送美国带骨猪扒券1张。品味雨花世界，发现浪漫契约！", :price=>"¥139", :image=>"http://d2.lashouimg.com/zt/201204/24/133526068712497500.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/811496.html Queue: 44
+{:url=>"http://shenzhen.lashou.com/deal/811496.html", :intro=>"深圳今日团购:仅售79元！市场价165元苗寨贵州酸汤火锅3-4人套餐一份：酸汤锅底1份+胡子鱼1条（约3斤）+牛肉丸1份+土豆1份+豆腐1份+苕粉1份+青菜1份+小菜2份+味碟4份！", :price=>"¥79", :image=>"http://d2.lashouimg.com/zt/201204/12/133422640239052200.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/824627.html Queue: 43
+{:url=>"http://shenzhen.lashou.com/deal/824627.html", :intro=>"深圳今日团购:仅售78元！市场价154元的沁园湘味厨房3-4人套餐一份：大盘花菜+三椒鱼+酸辣蕨根粉+湘味花甲+时蔬+鸳鸯馒头+米饭+餐具+茶位！2012年4月29日-5月4日不能使用拉手券！", :price=>"¥78", :image=>"http://d2.lashouimg.com/zt/201204/24/133526154125651600.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/818583.html Queue: 42
+{:url=>"http://shenzhen.lashou.com/deal/818583.html", :intro=>"深圳今日团购:仅售58元！市场价138元的蓬客精品酒店（国贸店）青蓬西餐厅自助晚餐一人次：名厨掌勺，地道烹饪，中餐西餐，刺身海鲜，热菜扒类，沙律水果，甜品饮料等近百道佳肴任你尝！生日当天更有蛋糕及生日果盘赠送！拉手券使用时间：18:00-21:00！", :price=>"¥58", :image=>"http://d2.lashouimg.com/zt/201204/18/133474561111995900.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/819738.html Queue: 41
+{:url=>"http://shenzhen.lashou.com/deal/819738.html", :intro=>"深圳今日团购:仅售139元！市场价580元的雨花西餐厅（南山天虹店）浪漫双人套餐一份：健康什菜沙律1份/凯撒烟鸭胸沙律1份（2选1）+法式蘑菇汤1份/金必多鱼翅汤1份/木瓜雪蛤雪耳汤1份（3选2）+三文鱼刺身1份/巴黎汁焗新西兰青口1份（2选1）+主食（4选2，不可重复）+心形蓝莓慕斯1份/心形芒果布丁1份（任选2份）+饮品(任选2份），另赠送现金券1张+牛扒券1张(赠送券仅限下次使用)。", :price=>"¥139", :image=>"http://d2.lashouimg.com/zt/201204/19/133482736607767400.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/774294.html Queue: 40
+{:url=>"http://shenzhen.lashou.com/deal/774294.html", :intro=>"深圳今日团购:仅售138元！市场价867元的又一丁日本料理浪漫双人套餐一份：刺身拼盘（三文鱼、希鲮鱼、章红鱼，各3片）1份+寿司太卷（4件）1份+和风沙律1份/什锦沙律1份（2选1）+金针菇牛肉薄烧（6件）1份/香葱蒜茸牛肉照烧（6件）1份（2选1）+什锦天妇罗1份+照烧青花鱼（2片）1份+日式海鲜蒸蛋2份+日式泡菜1份+骨汤拉面2份+铁板青柠明虾（4只）1份+日本清酒1壶/果汁2杯（2选1）+水果1份+冰激凌2份！ ", :price=>"¥138", :image=>"http://d2.lashouimg.com/zt/201203/07/133110679642251000.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/808910.html Queue: 39
+{:url=>"http://shenzhen.lashou.com/deal/808910.html", :intro=>"深圳今日团购:仅售198元！市场价422元的漓江又一轩6人套餐一份：酸菜石锅鱼1份+葱香鸡1份+金蒜一口牛仔粒1份+烧肉石锅豆腐1份+农家竹筒肉1份+清炒巴马野菜1份+五谷丰登1份+山楂养生茶1份+竹筒饭6个+野果6位（不可免费续）。", :price=>"¥198", :image=>"http://d2.lashouimg.com/zt/201204/10/133405562701583700.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/808538.html Queue: 38
+{:url=>"http://shenzhen.lashou.com/deal/808538.html", :intro=>"深圳今日团购:仅售139元！市场价最高486元的拉姆齐西餐双人套餐一份：椰香木瓜炖雪蛤2份+安格斯牛扒皇1份/法式羊小排1份/黑椒牛仔骨1份/石锅野山椒牛肉饭1份（任选2份）+韩国柚子蜜1杯+拉姆齐特调咖啡1杯+法式焦糖炖蛋1份+美式芝士蛋糕1份+免费任吃自助沙律吧（水果、点心、凉菜），供应时段：中午12：00-13：30，晚上18：00-20：00（若不在此时间段就餐的用户店内可赠送水果盘1份），拉手券使用时间：周一至周五：13：00-23：00，周六、周日：12：00-23：00。", :price=>"¥139", :image=>"http://d2.lashouimg.com/zt/201204/10/133404873286408700.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/824730.html Queue: 37
+{:url=>"http://shenzhen.lashou.com/deal/824730.html", :intro=>"深圳今日团购:仅售9.9元！市场价最高35元的春天里甜品店（宝安店）单人甜品套餐一份：甜品（10选1）+小食（4选1）！2012年4月29日-5月1日不可使用拉手券消费。", :price=>"¥9.9", :image=>"http://d2.lashouimg.com/zt/201204/24/133526428924695700.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/822800.html Queue: 36
+{:url=>"http://shenzhen.lashou.com/deal/822800.html", :intro=>"深圳今日团购:仅售158元！市场价最高547.8元的星期五餐饮双人套餐一份：扒类（任选2）+炸薯条1份+花生米1份+瓜子1份+芥末青瓜条1份+城堡红葡萄酒1支+意粉/白饭（任选2）+纸巾1盒+服务费10%，拉手劵使用时间：18：00-21：00！", :price=>"¥158", :image=>"http://d2.lashouimg.com/zt/201204/23/133517149753269500.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/799178.html Queue: 35
+{:url=>"http://shenzhen.lashou.com/deal/799178.html", :intro=>"深圳今日团购:仅售38元！市场价66.7元的豪派特华美达酒店自助餐厅商务自助午餐一人次：美式鸡扒+越式春卷+尖椒牛肉+剁椒鱼头+特式烧鸭+各式寿司+粉面排档+田园沙律+时令水果+精美甜品不限量任吃，还有多款果汁任饮！拉手券使用时间：12：00-14：00！", :price=>"¥38", :image=>"http://d2.lashouimg.com/zt/201203/29/133301582793568300.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/812998.html Queue: 34
+{:url=>"http://shenzhen.lashou.com/deal/812998.html", :intro=>"深圳今日团购:片片晶莹，入口触舌，舞鹤倾情推出仅售168元！市场价1120元的舞鹤日本料理（3店通用）精品双人套餐一份：刺身集锦（6选3，共6片）+寿司卷（4选2，共4件）+牛肉网烧/美牛薄烧（2选1）1份+铁板鹅肝/铁板大虾/铁板石斑鱼（3选1）1份+什锦天妇罗1份+牛肉炒饭2份/海鲜炒饭2份/清汤乌冬2份（3选1）+盐烧秋刀鱼/鲭鱼（2选1）1份+牛油果蟹子沙律2份+面豉汤2份，另赠送咖啡/雪糕（任选2份）！", :price=>"¥168", :image=>"http://d2.lashouimg.com/zt/201204/13/133431360141496100.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/824581.html Queue: 33
+{:url=>"http://shenzhen.lashou.com/deal/824581.html", :intro=>"深圳今日团购:潮汕菜风靡华南、走俏神州！仅售79元！市场价最高178元的庆达潮汕私房菜馆四人套餐一份：隆江猪手1份/卤水拼盘1份（2选1）+荷兰豆炒腊味1份/铁板牛肉1份（2选1）+日本豆腐煲1份/腐竹腩肉1份（2选1）+土豆焖鸡1份/红烧鱼块1份（2选1）+时蔬1份+米饭4碗+茶位4位+纸巾1包！", :price=>"¥79", :image=>"http://d2.lashouimg.com/zt/201204/24/133526081088439800.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/814733.html Queue: 32
+{:url=>"http://shenzhen.lashou.com/deal/814733.html", :intro=>"深圳今日团购:仅售99元！市场价168元的可颂坊直销网上商城就爱族蛋糕兑换码1个，凭兑换码可在可颂坊网上商城（www.9izone.com ）兑换黑森林蛋糕1个，深圳关内（罗湖、福田、南山）免费配送；深圳关外地区会员购买前请致可颂坊客服电话：0755-83129252，确认配送范围。", :price=>"¥99", :image=>"http://d2.lashouimg.com/zt/201204/16/133456662457894700.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/808582.html Queue: 31
+{:url=>"http://shenzhen.lashou.com/deal/808582.html", :intro=>"深圳今日团购:仅售169元！市场价972元的德川日本料理龙虾情侣套餐一份：三文鱼拼翡翠螺（三文鱼5片、翡翠螺4个）+芝士焗龙虾+加州手卷+花之恋寿司拼加州卷拼甜虾寿司（各2件）+西京烧银鳕鱼+上汤鱼翅+香煎鹅肝+铁板乌冬面+铁板牛仔骨+果汁/清酒（任选2杯）！", :price=>"¥169", :image=>"http://d2.lashouimg.com/zt/201204/10/133405002115713600.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/796187.html Queue: 30
+{:url=>"http://shenzhen.lashou.com/deal/796187.html", :intro=>"深圳今日团购:仅售128元！市场价最高530元的拉姆齐浪漫双人西式套餐一份：葡汁焗生蚝2只/扇贝2只（2选1）+金瓜海鲜汤1份+栗米忌廉汤1份+精选肉眼扒（8安士）1份/拉姆齐羊扒（8安士）1份/芝士南瓜茸焗三文鱼1份/野菌焗田鸡饭1份（任选2份）+木瓜炖雪蛤1份+法式炖蛋1份+美式咖啡1杯/港式奶茶1杯/法国红葡萄酒1杯/法国白葡萄酒1杯（任选2杯），另有自助沙律吧免费任吃（供应时段：中午12：00-13：30，晚上18：00-20：00）！清明节可使用拉手劵！", :price=>"¥128", :image=>"http://d2.lashouimg.com/zt/201203/30/133307955144269800.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/824381.html Queue: 29
+{:url=>"http://shenzhen.lashou.com/deal/824381.html", :intro=>"深圳今日团购:仅售78元！市场价329元的宝安西乡天一料理店双人套餐一份：寿司拼盘+刺身拼盘+翡翠炒饭+吉列猪扒+天一金菇牛肉卷+天一烤多春鱼+水果蟹籽沙律+香酥榴莲+饮品（4选2，不可重复）。\r\n", :price=>"¥78", :image=>"http://d2.lashouimg.com/zt/201204/24/133525704275462600.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/809871.html Queue: 28
+{:url=>"http://shenzhen.lashou.com/deal/809871.html", :intro=>"深圳今日团购:仅售62元！市场价88元的亚马逊（6店通用）巴西烤肉单人自助午餐一人次：巴西烤肉、海鲜、热菜、点心、水果、沙律、饮料、冰激凌等二十几款美食无限享用。拉手券周一至周日使用时间为：11：00-14：00（除海岸城店外）！海岸城店拉手券使用时间：周一至周五14：00-17：00，周六、周日14：30-17：00！2012年4月30日至5月3日不可使用拉手券消费！若需享用自助晚餐，到店需另支付18元/人即可（海岸城店晚餐不可使用）！", :price=>"¥62", :image=>"http://d2.lashouimg.com/zt/201204/11/133413749954918100.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/820087.html Queue: 27
+{:url=>"http://shenzhen.lashou.com/deal/820087.html", :intro=>"深圳今日团购:仅售78元！市场价216元的华府农家粥城3-4人套餐一份：豆腐鱼头芥菜汤1例+白切鸡半只+让三宝1例+农家小炒肉1例+豉汁蒸鱼腩1例+蒜茸时蔬1例+米饭4位（任食）+餐具3份+纸巾1包。", :price=>"¥78", :image=>"http://d2.lashouimg.com/zt/201204/19/133483365623069000.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/818427.html Queue: 26
+{:url=>"http://shenzhen.lashou.com/deal/818427.html", :intro=>"深圳今日团购:仅售38元！市场价98元的牛河草小肥牛（潮汕鲜牛肉火锅）单人自选套餐一份：特色汤底1份（6选1）+新鲜肉类1份（7选1）+全牛精选1份（14选1）+海鲜类1份（13选1）+蔬菜1份（18选1）+主食类1份（4选1）+茶位1位+酱料1份。", :price=>"¥38", :image=>"http://d2.lashouimg.com/zt/201204/18/133474217577279900.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/804716.html Queue: 25
+{:url=>"http://shenzhen.lashou.com/deal/804716.html", :intro=>"深圳今日团购:仅售59元！市场价150元的香茅餐厅精品双人套餐一份：马来肉骨茶1份/马来美酒鸡汤1份（2选1）+招牌娘惹鱼1份（约400g）+马来栈通心菜1份+米饭2份（可免费续）+香茅特色拉茶2杯！", :price=>"¥59", :image=>"http://d2.lashouimg.com/zt/201204/05/133362215902366500.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/818411.html Queue: 24
+{:url=>"http://shenzhen.lashou.com/deal/818411.html", :intro=>"深圳今日团购:仅售128元！市场价438元的深圳天然湾大酒楼海鲜营养搭配3-4人套餐一份：花旗参乌鸡功夫汤3壶+金牌烧鹅1例+豉汁蒸鸭嘴鱼1份（约1.8斤）+蒜茸粉丝蒸扇贝1打（12只）+乾隆王萝卜1例+生炒有机菜心1例+豆腐花1份+凉拌云耳1份+四川泡菜1份！周一至周四消费最多免4位茶位费，周五至周日消费需另收取茶位费3元/人。", :price=>"¥128", :image=>"http://d2.lashouimg.com/zt/201204/18/133474186624030600.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/792445.html Queue: 23
+{:url=>"http://shenzhen.lashou.com/deal/792445.html", :intro=>"深圳今日团购:仅售158元！市场价最高535元的大梅沙京基海湾大酒店稻轩日本料理餐厅日式双人套餐一份：土豆沙律+炭烧法国生蚝+北极贝、三文鱼刺身拼盘+软壳蟹加州卷配三文鱼烧寿司+土佐炸豆腐+烧多春鱼+铁板蒜片牛肉粒+牛油金针菇+和风辣肉炒饭+新鲜橙汁2杯/可口可乐2杯（任选1）！如2012年4月29日-5月1日（五一期间）使用拉手券，每张需另加收40元（店内另付）。", :price=>"¥158", :image=>"http://d2.lashouimg.com/zt/201203/23/133249336136516000.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/808542.html Queue: 22
+{:url=>"http://shenzhen.lashou.com/deal/808542.html", :intro=>"深圳今日团购:仅售128元！市场价770元的福屋日本料理双人套餐一份：刺身拼盘1份（三文鱼、希鲮鱼、章红鱼、八爪鱼各3片）+寿司拼盘1份（双色蟹籽、吞拿鱼、豆腐皮、三文鱼花之恋、青瓜卷各2件）+铁板鱿鱼仔1份+牛肉茄子卷1份+香煎鸡中翼2只+芝士烧虾2只+菠菜烟肉沙律1份+番薯天妇罗5片+海鲜汤2碗+芝麻八爪鱼1份+日式炒饭1份+炒杂菜1份+冻柠水2杯，另赠送现金劵1张。\r\n", :price=>"¥128", :image=>"http://d2.lashouimg.com/zt/201204/10/133404927755656500.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/794908.html Queue: 21
+{:url=>"http://shenzhen.lashou.com/deal/794908.html", :intro=>"深圳今日团购:仅售78元！市场价276元的可口多拿两磅蛋糕一个（需到店自取）：点点滴滴/日本芝士蛋糕，2选1！全市7店通用！", :price=>"¥78", :image=>"http://d2.lashouimg.com/zt/201203/26/133276096101976000.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/808908.html Queue: 20
+{:url=>"http://shenzhen.lashou.com/deal/808908.html", :intro=>"深圳今日团购:仅售98元！市场价286元的漓江又一轩4人套餐一份：板粟鸡1份/（啤酒鱼+桂林米粉）1份（2选1）+凉拌金针菜1份+巴马野笋炒肉1份+开胃蒸白磨豆腐1份+焗炒巴马山野菜1份+五谷丰登1份+山楂养生茶1份+竹筒饭4个+野果4位（不可免费续）。", :price=>"¥98", :image=>"http://d2.lashouimg.com/zt/201204/10/133405550783729300.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/799242.html Queue: 19
+{:url=>"http://shenzhen.lashou.com/deal/799242.html", :intro=>"深圳今日团购:仅售78元！市场价112.7元的豪派特华美达酒店自助晚餐一人次：日本精美寿司+刁鱼刺身+三文鱼刺身+冻虾+冰岛海螺+青口+海南鸡饭+咖喱海鲜+香辣虾+泰式香草青蠔烩意面+香辣蒸扇贝+香辣剁椒鱼头+各式串烧+烤肉+田园沙律+时令水果，还有多款精美甜品任食，饮料任饮！拉手券使用时间：18：00-21：00！", :price=>"¥78", :image=>"http://d2.lashouimg.com/zt/201203/29/133301640630503600.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/811446.html Queue: 18
+{:url=>"http://shenzhen.lashou.com/deal/811446.html", :intro=>"深圳今日团购:仅售118元！市场价266元的百度烤肉（景田北店）4人套餐一份：葡式肥牛1份+猪五花1份+羊五花1份+盐烤虾1份+多春鱼1份+生菜1份+韭菜1份+烤馒头1份+橙汁1壶+餐具4套+调料4位！另赠送：现金抵用券一张！", :price=>"¥118", :image=>"http://d2.lashouimg.com/zt/201204/15/133447514005255500.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/804281.html Queue: 17
+{:url=>"http://shenzhen.lashou.com/deal/804281.html", :intro=>"深圳今日团购:仅售89元！市场价211元的椰子鸡海鲜火锅酒家2-3人套餐一份：海南走地家鸡1份+椰青火锅底1份+牛筋丸1份+鱼皮饺1份+马蹄1份+鲜冬瓜1份+鲜时蔬1份+公仔面2团+豉油3份+餐具3套！", :price=>"¥89", :image=>"http://d2.lashouimg.com/zt/201204/16/133454746354631000.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/812291.html Queue: 16
+{:url=>"http://shenzhen.lashou.com/deal/812291.html", :intro=>"深圳今日团购:汉堡王重磅出击！庆深圳东门店、中山利和店隆重开业！仅售38元！市场价75.5元的汉堡王（9店通用）双人套餐一份：招牌皇堡1个+酷烤嫩鸡堡1个/酷辣脆鸡堡1个（2选1）+中薯条1份+嫩香鸡块1份（6块）+新地1份（香草味/巧克力味/草莓味，3选1）+中可乐2杯！东门店、中山店（2012年4月28日隆重开业）于2012年5月1日（周二）开始接待！", :price=>"¥38", :image=>"http://d2.lashouimg.com/zt/201204/13/133429590893266400.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/814560.html Queue: 15
+{:url=>"http://shenzhen.lashou.com/deal/814560.html", :intro=>"深圳今日团购:仅售62元！市场价78元的都之都大酒店自助午餐一人次：挪威三文鱼刺身、鲷鱼、八爪鱼、希鲮鱼刺身、头盆、各式煎扒、日式料理、寿司、各式中西热菜、西式沙律、冷盘、精美甜品、时令新鲜水果、各式饮料、咖啡、茶等一百多种美味餐品任吃任饮！拉手劵使用时间：12：00-14：00！2012年5月9日、5月13日不能使用拉手劵！", :price=>"¥62", :image=>"http://d2.lashouimg.com/zt/201204/16/133456304406235400.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/821586.html Queue: 14
+{:url=>"http://shenzhen.lashou.com/deal/821586.html", :intro=>"深圳今日团购:仅售268元！市场价521元的辣点厨房8-10人套餐一份：铁板福辣鱼1份+干锅杏鲍菇1份+黄贡椒炒捆鸡1份+干锅白胡子牛肉1份+神仙驴骨煲1份+铁板豆腐1份+酸辣土豆丝1份+时蔬1份+荞麦包1份+松子玉米1份+鸡汤脆笋1份+川北凉粉1份+清蒸皖鱼1份+餐具10份+米饭10份+湖南自酿米酒1份+纸巾2包+茗茶1壶。", :price=>"¥268", :image=>"http://d2.lashouimg.com/zt/201204/20/133491967486733300.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/824344.html Queue: 13
+{:url=>"http://shenzhen.lashou.com/deal/824344.html", :intro=>"深圳今日团购:仅售52元！市场价98元的吉禄回转寿司单人自助一人次：单价15元以下（含15元）寿司任吃+可乐、雪碧任喝，三文鱼寿司、蟹子寿司、鱿鱼寿司、金枪鱼寿司等多种美味食品。用餐时长为1.5小时（验证拉手劵时开始计）！ \r\n", :price=>"¥52", :image=>"http://d2.lashouimg.com/zt/201204/24/133525627957242000.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/819598.html Queue: 12
+{:url=>"http://shenzhen.lashou.com/deal/819598.html", :intro=>"深圳今日团购:仅售168元！市场价450元的华通澳葡街风味酒家3-4人套餐一份：冬阴功海鲜汤4位+澳门烧卤拼盘+招牌咖喱鸡+炭烧青花鱼+禾风酱焗生蚝+水咸鱼炒菜心+什锦寿司+茶位4位+服务费！另免费赠送时令鲜果盘1份！", :price=>"¥168", :image=>"http://d2.lashouimg.com/zt/201204/19/133482598975018500.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/819569.html Queue: 11
+{:url=>"http://shenzhen.lashou.com/deal/819569.html", :intro=>"深圳今日团购:仅售128元！市场价530元的雨花西餐厅（海上世界店）浪漫双人套餐一份：主食（任选2份）+莳萝香草烩青口1份/香草薯茸焗扇贝1份（2选1）+甜品（任选2份）+雨花薯茸海鲜鱼翅汤1份/法式蘑菇浓汤1份（任选2份）+饮品（任选2杯)，另赠送现金券一张+铁板香蒜牛小排粒券一张（仅限下次使用，自领取之日起算一个月内有效）！周一至周五（11:00-17:00）【劳动节2012年4月29至5月1号除外】到店消费可获赠香蕉提子沙律1份/吞拿鱼鲜蔬沙律1份（2选1）！\r\n", :price=>"¥128", :image=>"http://d2.lashouimg.com/zt/201204/19/133482545198036700.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/814505.html Queue: 10
+{:url=>"http://shenzhen.lashou.com/deal/814505.html", :intro=>"深圳今日团购:仅售129元！市场价562元的雨花西餐厅（南山天虹店）双人套餐一份：健康什菜沙律1份+木瓜雪蛤/海皇鱼翅汤/法式蘑菇汤（任选2份）+主食（任选2份）+提拉米苏1份+蓝莓慕斯1份+饮品（任选2杯），另赠送现金券1张+牛扒券1张（赠送券仅限下次使用）！\r\n", :price=>"¥129", :image=>"http://d2.lashouimg.com/zt/201204/16/133456049384783800.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/819736.html Queue: 9
+{:url=>"http://shenzhen.lashou.com/deal/819736.html", :intro=>"深圳今日团购:仅售298元！市场价1055元的新鸿强海鲜酒楼8人套餐一份：冬菜蒸大生鱼+卤水鹅拼掌亦+顺德煎焗土鸡+养生老火靓汤+鲍鱼仔煮木瓜腰豆+铁观音茶皇海中虾+香芹拌云耳+爽口菜炒咸肉+蒜茸粉丝蒸元贝+金银蛋浸有机时蔬+鲜美果盘+白米饭+茶位费+服务费！", :price=>"¥298", :image=>"http://d2.lashouimg.com/zt/201204/19/133482718599326300.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/819931.html Queue: 8
+{:url=>"http://shenzhen.lashou.com/deal/819931.html", :intro=>"深圳今日团购:仅售98元！市场价138元的深圳万悦国际酒店西餐厅自助晚餐一人次：鱼翅汤粉丝蒸扇贝、三文鱼、八爪刺身、三点蟹濑尿虾、金枪鱼、醋青鱼等优质海鲜、韩式顿牛尾黑椒牛柳粒、美食焖排骨等10多款亚太熟食、十多款扒类、寿司、甜点、沙律、点心、汤类、饮料等无限量畅饮畅吃！拉手券使用时间：17：30-21：30（用餐时间为2小时）！", :price=>"¥98", :image=>"http://d2.lashouimg.com/zt/201204/19/133482994396013600.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/816706.html Queue: 7
+{:url=>"http://shenzhen.lashou.com/deal/816706.html", :intro=>"深圳今日团购:仅售48元！市场价最高134元的仙踪林（龙岗广百店）双人休闲套餐一份：花椰菜香浓牛腩饭/rbt红烧牛肉面/香喷喷台式卤肉饭/炸香酥排骨饭（4选2）+rbt珍珠奶茶/青苹果水晶绿茶/蜂蜜绿茶（任选2杯）+迷你仙草+蓝莓布蕾！2012年4月29日-5月1日不可使用拉手券！", :price=>"¥48", :image=>"http://d2.lashouimg.com/zt/201204/17/133465557242954200.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/817066.html Queue: 6
+{:url=>"http://shenzhen.lashou.com/deal/817066.html", :intro=>"深圳今日团购:仅售168元！市场价328元的毛家饭店（2店通用）6人套餐一份：莲藕排骨汤+鸳鸯鱼头+大汉金沙鸡+湘味杀猪菜+剁椒蒸芋仔+辣椒炒肉+铁板水晶粉+白灼菜心+小食3碟+米饭6碗+茶位6位+餐具6位+干纸巾2包+湿纸巾6包！万科红店2012年5月1日不可使用拉手券，茵悦之生店限周一至周五使用，2012年4月29日-5月1日不可使用拉手券！", :price=>"¥168", :image=>"http://d2.lashouimg.com/zt/201204/17/133465879844236500.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/826150.html Queue: 5
+{:url=>"http://shenzhen.lashou.com/deal/826150.html", :intro=>"深圳今日团购:仅售28元！市场价77.2元的美极点心（东门步行街店）双人套餐一份：美极点心（30多款港式点心，任选3份）+芒果冻布甸1份+可乐/雪碧/冻柠檬茶（任选2杯）+茶位2位！ ", :price=>"¥28", :image=>"http://d2.lashouimg.com/zt/201204/25/133534164101509400.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/811444.html Queue: 4
+{:url=>"http://shenzhen.lashou.com/deal/811444.html", :intro=>"深圳今日团购:仅售49.9元！市场价117元的金田涮滋补双人火锅套餐一份：锅底（5选1）+羊肉/肥牛（2选1）+午餐肉+火锅面+（冬瓜+白萝卜拼盘）+（白豆腐+猪血拼盘）+（龙虾丸+牛肉丸拼盘）+时蔬+自助调料！另免费赠送茶位费2位！南山茂业店、信和店，福田山姆店，2店通用！如需到福田山姆店消费，每张拉手券需另加10元！2012年4月30日-5月3日不可使用拉手券！", :price=>"¥49.9", :image=>"http://d2.lashouimg.com/zt/201204/12/133422587196695900.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/829644.html Queue: 3
+{:url=>"http://shenzhen.lashou.com/deal/829644.html", :intro=>"深圳今日团购:仅售89元！市场价283元的馥麓小馆精选3-4人套餐一份：秘制加州鲈鱼+香菇蒸农家鸡+干烧老豆腐+蒜茸炒时蔬+老火汤4位+八宝辣酱夹饼！", :price=>"¥89", :image=>"http://d2.lashouimg.com/zt/201204/27/133552229151643900.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/822711.html Queue: 2
+{:url=>"http://shenzhen.lashou.com/deal/822711.html", :intro=>"深圳今日团购:仅售58元！市场价176元的众星餐饮三文鱼刺身拼盘一份（约1斤）！节假日通用！冰海之王择日来袭，带来冰爽刺激的豪华盛宴，让你享乐不停！", :price=>"¥58", :image=>"http://d2.lashouimg.com/zt/201204/23/133516867103624900.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/824585.html Queue: 1
+{:url=>"http://shenzhen.lashou.com/deal/824585.html", :intro=>"深圳今日团购:仅售72元！市场价121元的尊宝比萨（深圳16店通用）2-3人套餐一份：12寸尊宝比萨1份（17种口味任选1种）+风情香鸡翼4个/尊宝秘制香鸡翼4个（2选1）+劲爆鸡米花1份/骨肉相连1份/新奥尔良烤翅1份（3选1）+可乐1瓶（1.25升）！", :price=>"¥72", :image=>"http://d2.lashouimg.com/zt/201204/24/133526033569384100.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/820064.html Queue: 0
+{:url=>"http://shenzhen.lashou.com/deal/820064.html", :intro=>"深圳今日团购:狂热浙江风味来袭！仅售99元！市场价247元的六千馆（兴华店）4人套餐一份：千张猪骨煲+肥羊卷+牛筋丸+金针菇+炸腐竹+油麦菜+农家小炒+麻婆豆腐+菊花拌小耳+米饭4碗+小食2份+调料4位+茶位4位+干纸巾1包+湿巾4包！", :price=>"¥99", :image=>"http://d2.lashouimg.com/zt/201204/19/133483323324064800.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/828123.html Queue: 0
+{:url=>"http://shenzhen.lashou.com/deal/828123.html", :intro=>"深圳今日团购:传统地道的日式风味！仅售89元！市场价628元的君逸酒店喜多屋日本料理夏日火焰铁板烧双人套餐一份：法国鹅肝+铁板明虾+洋葱牛肉卷+秘制牛舌+特色野菜沙拉+杂菜大烩+蟹籽特色炒饭+味噌汤！另免费赠送三文鱼刺身券2张！", :price=>"¥89", :image=>"http://d2.lashouimg.com/zt/201204/26/133543835773226200.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/827693.html Queue: 0
+{:url=>"http://shenzhen.lashou.com/deal/827693.html", :intro=>"深圳今日团购:仅售118元！市场价429元的绿茵阁VS海纳客欧罗巴风情美食双人套餐一份：冰岛鲜虾吞拿鱼鲜蔬沙拉+普罗旺斯白忌廉浓汤+皇家鲜茄蔬菜浓汤+配酥油小面包+酥烤阿尔卑斯小羊排配太阳蛋+香草意粉+英格兰芝士焗火腿鸡排+泰香米饭+意大利米兰鲜果球冰淇淋+布拉格奶酪雪精灵+左岸白天鹅咖啡配香脆朱古力饼！绿茵阁华强北店、海纳客咖啡景田店、海纳客咖啡东门店，3店通用！", :price=>"¥118", :image=>"http://d2.lashouimg.com/zt/201204/26/133542986303730700.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/824708.html Queue: 0
+{:url=>"http://shenzhen.lashou.com/deal/824708.html", :intro=>"深圳今日团购:味觉盛宴，享美食佳肴！仅售168元！市场价593元的龙岗威斯特酒店天龙阁食府6-8人套餐一份：红烧河中鲜+豉油皇基围虾+客家咸香鸡+黄酒焖猪肉+老火靓汤+陈皮绿豆沙+腐竹凉瓜咸菜煲+金菇焖伊面+香煎山水豆腐+榄菜豆角炒茄子+蒜蓉炒时蔬+麻辣鸡腿菇+四川泡菜+茶位！另赠送米饭（按实际到场人数，每人一份，最多8份）！", :price=>"¥168", :image=>"http://d2.lashouimg.com/zt/201204/24/133526356969523700.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/822712.html Queue: 0
+{:url=>"http://shenzhen.lashou.com/deal/822712.html", :intro=>"深圳今日团购:仅售98元！市场价最高496元的众星餐饮牛扒双人套餐一份：【田园沙律/吞拿鱼薯泥沙律，任选2份】+【法式洋葱汤/翠绿菠菜汤/忌廉蘑菇汤，任选2份】+【龙利鱼扒佐芒果酱/苹果猪扒佐塔酱/炭烧牛仔骨佐黑椒酱，3选2（不可重复）】+【意大利肉酱面/蘑菇意大利面，任选2份】+蒜香面包2份+手工冰淇淋2份+【意大利咖啡/英式红茶/可口可乐，任选2杯】！", :price=>"¥98", :image=>"http://d2.lashouimg.com/zt/201204/23/133516890299775300.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/829337.html Queue: 0
+{:url=>"http://shenzhen.lashou.com/deal/829337.html", :intro=>"深圳今日团购:仅售88元！市场价288元的可口多拿（27店通用）两磅蛋糕一个（需到店自取）：杏雨梨云/晶莹的心，2选1！", :price=>"¥88", :image=>"http://d2.lashouimg.com/zt/201204/27/133552138152250400.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/811088.html Queue: 0
+{:url=>"http://shenzhen.lashou.com/deal/811088.html", :intro=>"深圳今日团购:仅售52元！市场价88元的亚马逊巴西烤肉（中信广场店）单人自助下午茶一人次：巴西烤肉、海鲜、热菜、点心、水果、沙律、饮料、冰激凌等二十几款美食无限享用。拉手券使用时间：周一至周五14：00-17：00，周六、周日14:30-17：00！用餐时长最长为2小时，17:00清场！2012年4月30日-5月3日不可使用拉手券！", :price=>"¥52", :image=>"http://d2.lashouimg.com/zt/201204/12/133422141630641900.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/818227.html Queue: 0
+{:url=>"http://shenzhen.lashou.com/deal/818227.html", :intro=>"深圳今日团购:仅售139元！市场价438元的拉姆齐中式3-4人套餐一份：剁椒双色鱼头1份+秘制蝉片花肉煲1份+砂煲胡椒猪肚鸡1份+梅香咸鱼剁肉饼1份+瓦煲煎焗酿豆腐1份+生炒菜心1份+白饭4碗+清香铁观音1壶+精美水果拼盘1份！拉手券使用时间：周一至周五：13：00-21：00，周六、周日：12：00-21：00。", :price=>"¥139", :image=>"http://d2.lashouimg.com/zt/201204/18/133473806051666300.jpg", :type=>"food", :provider=>"Lashou"}
+http://shenzhen.lashou.com/deal/822718.html Queue: 0
+{:url=>"http://shenzhen.lashou.com/deal/822718.html", :intro=>"深圳今日团购:仅售36元！市场价58元的金味轩韩式烤肉单人自助午餐一人次：海鲜+肉类+新鲜时蔬+风味热菜+爽口凉菜+甜品+精美点心+水果+可乐+果汁+酒水+韩国特色调味酱等任食！拉手券使用时间：11：00-14：00（用餐时间为2小时）！2012年4月29日-5月1日不可使用拉手券！到店另付10元可升级为自助晚餐1人次，晚餐供应时间为：16：00-23：00（用餐时间为2小时）【不在本次团购之列，属自愿消费，详情咨询商家店内】！", :price=>"¥36", :image=>"http://d2.lashouimg.com/zt/201204/23/133516912670495700.jpg", :type=>"food", :provider=>"Lashou"}
+Finish crawl see Anemone::PageStore

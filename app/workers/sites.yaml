@@ -1,0 +1,13 @@
+SITES:
+    MEITUAN:
+        food: ["http://sz.meituan.com/category/food/", "http://sz.meituan.com/category/food/all"]
+        play: ["http://sz.meituan.com/category/entertainment/all"]
+    LASHOU:
+        food: ["http://shenzhen.lashou.com/cate/meishi/"]
+        play: ["http://shenzhen.lashou.com/cate/xiuxianyule"]   
+    WOWOTUAN:
+        food: ["http://shenzhen.55tuan.com/1"]
+        play: ["http://shenzhen.55tuan.com/2"]  
+    TUAN:
+        food: ["http://t.58.com/sz/meishi/"]
+        play: ["http://t.58.com/sz/xiuxian/"]            
